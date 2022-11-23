@@ -1,0 +1,24 @@
+1. Write a recursive program which accept number from user and display below
+pattern.
+Input  : 5
+Output : 5 * 4 * 3 * 2 * 1 *
+
+2.Write a recursive program which accept number from user and return
+summation of its digits.
+Input  : 879
+Output : 24
+
+3.Write a recursive program which accept string from user and count number
+of characters
+Input  : Hello
+Output : 5
+
+4.Write a recursive program which accept number from user and return its
+factorial.
+Input  :5
+Output :120
+
+5.Write a recursive program which accept number from user and return its
+product of digits.
+Input  :523
+Output :30
